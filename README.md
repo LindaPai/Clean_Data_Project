@@ -1,4 +1,4 @@
-<head> DataQuest_Questions_Project - Linda and Donny <head>
+## DataQuest_Questions_Project - Linda and Donny 
 
 -----------------------------------------------
 Answer 6 questions from data cleaning course
